@@ -1,0 +1,4 @@
+Step 1:Install Eclipse (helios) software to enable android in the device(prefered).
+Step 2: Install Tomcat version 7.0 (to connect both front end and back end).
+Step 3: Start tomcat.
+Step 4: Android codings are executed by the option "Run as Android Application".
